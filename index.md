@@ -21,8 +21,8 @@ Wenn du Fragen oder Anregungen hast, erreichst du uns unter:
 
 ---
 
-- [Datenschutzerklärung](privacy-policy.md)
-- [Impressum](impressum.md)
+- [Datenschutzerklärung](privacy-policy.html)
+- [Impressum](impressum.html)
 
 Jonathan Schneider
 
