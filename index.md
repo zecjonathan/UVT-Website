@@ -1,5 +1,3 @@
-# UVT
-
 Sieh dir deinen Stundenplan einfacher an als du es jemals getan hast 👌.
 
 ## Q&A
